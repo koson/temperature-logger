@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name "W5500-altium-import")(type "KiCad")(uri "${KIPRJMOD}/W5500-altium-import.kicad_sym")(options "")(descr ""))
+  (lib (name "Adapters-altium-import")(type "KiCad")(uri "${KIPRJMOD}/Adapters-altium-import.kicad_sym")(options "")(descr ""))
+  (lib (name "RTD_Channel-altium-import")(type "KiCad")(uri "${KIPRJMOD}/RTD_Channel-altium-import.kicad_sym")(options "")(descr ""))
+  (lib (name "Supply-altium-import")(type "KiCad")(uri "${KIPRJMOD}/Supply-altium-import.kicad_sym")(options "")(descr ""))
+  (lib (name "Temp_recorder_SAMD21-altium-import")(type "KiCad")(uri "${KIPRJMOD}/Temp_recorder_SAMD21-altium-import.kicad_sym")(options "")(descr ""))
+)
